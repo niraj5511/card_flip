@@ -40,7 +40,7 @@ body {
   border-radius: 14px;
   overflow: hidden;
   background: #1f2023;
-  border: 1px solid #2c2d30;
+  border: 2px solid #102257;
   box-shadow: 0 10px 24px rgba(0,0,0,0.4);
 }
 
@@ -132,7 +132,7 @@ body {
   font-weight: 600;
   color: #a9aaac;
   background: #26272a;
-  border: 1px solid #343538;
+  border: 2px solid #343538;
   padding: 5px 10px;
   border-radius: 4px;
   white-space: nowrap;
